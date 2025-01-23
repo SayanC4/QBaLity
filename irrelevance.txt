@@ -33,7 +33,6 @@ Late 1800s
 George Washington Cable
 Joel Chandler Harris
 Francis Hopkinson Smith
-**Kate O'Flaherty Chopin
 Joaquin Miller
 James Whitcomb Riley
 Sidney Lanier
@@ -43,8 +42,6 @@ Petroleum V. Nasby
 Artemus Ward
 Finley Peter Dunne
 Deam Hamlin Garland
-**Helen Hunt Jackson
-**Ambrose Gwinett Bierce
 Jacob Riis
 David Graham Phillips
 WEB Du Bois
@@ -71,17 +68,14 @@ Robert and Helen Lynd
 John Phillips Marquand
 Jean Toomer
 Lawrence Ferlingheti
-**William Burroughs
 Maxwell Anderson
 Georges Kaufman
-**Arthur Ashur Miller
 Larry McMurtry
 John Grisham
 Michael Crichton
 Tom Clancy
 James Thomas Farrell
 James Jones
-**L Frank Baum
 Malcolm Little and Alex Haley
 Erskine Caldwell
 Edward Hale
@@ -101,7 +95,6 @@ Arna Bontemps
 Irwin Shaw
 Henry Miller
 Thomas Heggen
-**Joyce Carol Oates
 Anne Tyler
 Gloria Naylor
 Harriot Monroe
@@ -143,12 +136,10 @@ William Congreave
 Isaac Newton
 Joseph Addison and Richard Steele
 Richard Steele
-**Richard Sheridan
 Bishop Thomas Percy
 John Cleland
 William Cowper
 Wordsworth and Coleridge
-**George Gordon Lord Byron
 Matthew Gregory Lewis
 Charles Lamb
 Thomas De Quincy
@@ -158,34 +149,22 @@ John Henry Newman
 Benjamin Disraeli
 Thomas Carlyle
 John Ruskin and Walter Pater
-**Alfred Lord Tennyson
 Pippa Passes
-**Dante Gabriel Rossetti and William Morris
 George Meredith
 Arnold Bennett
 Elizabeth Cleghorn Gaskell
 Charles Kingsley
 John Galsworthy
-**HG Wells
-**AE Housman
-**Dame Agatha Christie
 Baroness Orczy
-**EM Forster
 CS Forester
-**DH Lawrence
 James Hilton
-**W Somerset Maugham
 Russell and Whitehead
 Bertrand Russell
 Alfred Whitehead
-**Ford Maddox Ford
 Dame Ivy Compton
 John Braine
 Malcolm Lowry
-**TS Eliot
-**WH Auden
 C. Day Lewis
-**CS Lewis
 James M. Barrie
 Elias Canetti
 Earle Birney
@@ -201,7 +180,6 @@ Lu Hsun
 Pa Chin
 Lao She
 Jaroslav Seifert
-**Hans Christian Anderson
 Isak Denison
 Karl Gjellerup
 Henrik Pontoppidan
@@ -214,8 +192,6 @@ Jean Baptiste Racine
 Blaise Pascal
 Jean Jacques Rousseau
 Charles de Montesquieu
-**Alexandr Dumas the Elder
-**Alexandr Dumas the Younger
 Edmund Rostand
 Sully Prudhomme
 Romain Rolland
@@ -235,7 +211,6 @@ Gerhart Hauptmann
 Hans Sachs
 George Seferis
 Odysseus Elytis
-**Halldor Kiljan Laxness
 Shmuel Yosef Agnon
 Matteo Maria Boiardo
 Lodovico Ariosto
@@ -254,7 +229,6 @@ Jose Joaquin Fernandez de Lizardi
 Jorge Isaacs
 Jose Maria Heredia
 Ricardo Guiraldes
-**Miguel Angel Asturias
 Manuel Ugarte
 Federico Gamboa
 Mariano Azuela
@@ -264,14 +238,9 @@ Cyprian Ekwensi
 Bjornstjerne Bjornson
 Sigrid Undset
 Wladyslaw Reymont
-**Aleksandr Pushkin
-**Nikolay Gogol
-**Count Leo Tolstoy
 Ivan Goncharov
-**Maksim Gorki
 Leonid Leonov
 Ivan Bunin
-**Mikhail Sholokhov
 Joseph Brodsky
 Juan Ruiz
 Fernando de Rojas
@@ -286,9 +255,6 @@ Carl Spitteler
 Eyvind Johnson
 Harry Martinson
 J.D. Wyss
-**AA Milne
-**Theodore Seuss Geisel
-**Frances Hodgson Burnett
 Edward L. Stratemeyer
 Hugh Lofting
 Eric P. Kelly
@@ -302,11 +268,8 @@ Antimachus of Colophonor Claros
 Callinus of Ephesus
 Archilochus of Paros
 Terpander of Lesvos
-**Sappho of Lesvos
 Thaletas
 The Attic Period
-**Herodotus
-**Xenophon
 Timaeus
 Antiphon
 Lysias
