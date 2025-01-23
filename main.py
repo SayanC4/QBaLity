@@ -1,5 +1,5 @@
 import asyncio as asy
-from qbreader import Async as qba
+from qbreader import Async
 
 with open("./Those who Grow.txt") as lit:
     ls = lit.readlines()
@@ -14,29 +14,38 @@ with open("./Those who Grow.txt") as lit:
                         "Anonymous", 
                         "Cyclic poets",
                         "Collected stories",
-                        "Compilation",]:
+                        "Compilation",
+                        "St."]:
             if "Dynasty" not in auth and "BC" not in auth:
                 fauths.append(auth.strip())
     #print(fauths)
 
-relevs = []
+# relevs = []
 async def verify(author, client):
-    # await asy.sleep(0.001)
+    await asy.sleep(0.001)
     resp = await client.query(
         queryString=author,
         difficulties=[0, 1, 2, 3, 4, 5],
         categories="Literature")
-    return resp.tossups > 4 or resp.bonuses > 4
+    return resp.tossups_found > 4 or resp.bonuses_found > 4
 
 async def main():
-    try: 
-        client = await qba.create()
-        tasks = [verify(author, client) for author in fauths]
-        results = await asy.gather(*tasks)
-        for author, relevant in zip(fauths, results):
-            if relevant:
-                relevs.append(author)
-    finally:
-        await client.close()
+    client = await Async.create()
+    relevs = open("./relevance.txt", 'w')
+    irrelevs = open("./irrelevance.txt", 'w')
+    for author in fauths:
+        relevance = await verify(author, client)
+        print(f"{author}: {relevance}")
+        relevs.write(f"{author}\n") if relevance else irrelevs.write(f"{author}\n")
+    """
+    tasks = [verify(author, client) for author in fauths]
+    results = await asy.gather(*tasks)
+    for author, relevant in zip(fauths, results):
+        if relevant:
+            relevs.append(author)
+    """
+    await client.close()
+    relevs.close()
+    irrelevs.close()
+   
 asy.run(main())
-print(len(relevs))
