@@ -1,0 +1,97 @@
+{
+    "Le Rouge et le Noir / The Red and the Black": {
+        "author": "Stendhal",
+        "clues": [
+            "[P] grows up bullied by brothers, faithlessly memorizes Latin verses",
+            "While he tutors Monsieur de Rênal's children, the maid Elisa exposes [P]'s affair with his wife",
+            "[P] flees after his affair is exposed to an abbey and befriends the Jansenist Abbé Pirard",
+            "While working under Marquis de la Mole, [P] delivers the message of a monarchist plot to the duc d'Angoulême",
+            "The Russian Prince Korasoff shows [P] how to properly woo Mathilda de la Mole",
+            "After [P] impregnates Madame de Fervaques, she is married off to Monsieur de Croisenois",
+            "[P]'s marriage to Mathilde is halted when a letter from Madame de Rênal decries him as a womanizer",
+            "[P] shoots Madame de Rênal and goes into hiding, aided by her, Mathilda, and priests he met before",
+            "After a visit from Madame de Rênal, who still loves him, [P] is guillotined, and Mathilde kisses his head"
+        ], "protagonist": "Julian Sorel",
+        "tags": ["European", "French", "novel"]
+    },
+    "La Chartreuse de Parma / The Charterhouse of Parma": {
+        "author": "Stendhal",
+        "clues": [
+            "In Lombadry, [P]'s dad thinks himself an Austrian spy, and [P] may have been secretly fathered by a French soldier",
+            "At 17, [P] tries to join Napoleon's campaign, stealing a French hussar uniform and wandering onto Waterloo",
+            "Fabrice joins Marshal Ney, meets his possible father (who steals his horse), and is wounded by a retreating ally",
+            "[P]'s aunt Gina is lovers with Count Mosca, who sends [P] to theology school in Naples, where he has affairs",
+            "[P] is attracted to his aunt, kills the lover of an actress he was with, and flees, trying to rizz up the soprano Fausta",
+            "Gina gets the Prince to sign an order, but instead has [P] imprisoned for 12 years, attracted Clélia Conti",
+            "Gina has Ferrante poison the Prince, rizzes up the new Prince, and has [P] return to be acquitted",
+            "[P] becomes a Vicar General, has an affair with her, fakes the kid's illness for custody, but the kid and Clélia both die",
+            "This novel ends with 'To the Happy Few' when [P] retires to the title Carthusian monastery and dies."
+        ], "characters": "Fabrice del Dongo",
+        "tags": ["European", "French", "novel"]
+    },
+    "Gargantua and Pantagruel, or Cinq Livres / Five Book": {
+        "author": "François Rabelais",
+        "clues": [
+            "Giant [P]'s father is moved to Fairyland by Morgan Le Fay; [P] defends a city from the Dipsodes w/his urine",
+            "[P]'s father is smart, so his impressed father Grandgousier has him tutored, making him a fool; he then fights a shepherd-baker war",
+            "Panurge and [P] are attacked by Chitterlings on the way to the Divine Bottle, until ships salute and [P] soils himself",
+            "Birds live in church hierarchy, furred Law-Cats imprison [P] and friends; Queen Quintessence, Lanternland, and 'trinc´ lead Panurge to marry"
+        ], "characters": "Pantagruel, Gargantua",
+        "tags": ["European", "French", "novel", "series"]
+    },
+    "Nature": {
+        "author": "Ralph Waldo Emerson",
+        "clues": [
+            "'if a man would be alone, let him look at the stars.' Society breaks wholeness with [T], which takes you away and helps you find the Universal Spirit"
+        ], "characters": "N/A",
+        "tags": ["American"]
+    },
+    "Self-Reliance": {
+        "author": "Ralph Waldo Emerson",
+        "clues": [
+            "'A foolish consistency is the hobgoblin of little minds', 'Whoso would be a man must be a nonconformist' and do what *he* thinks right"
+        ], "characters": "N/A",
+        "tags": ["American"]
+    },
+    "The American Scholar": {
+        "author": "Ralph Waldo Emerson",
+        "clues": [
+            "'We are all fragments', you are busy/divided or right, reject old thought, be Man Thinking, nature past and action - be the [T]"
+        ], "tags": ["American"]
+    },
+    "Divinity School Address": {
+        "author": "Ralph Waldo Emerson",
+        "clues": [
+            "At [T] College: Acquaint Thyself First Hand with Deity"
+        ], "characters": "N/A",
+        "tags": ["American"]
+    },
+    "Concord Hymn": {
+        "author": "Ralph Waldo Emerson",
+        "clues": [
+            "'Shot heard round the world' in a hymn to [T] location"
+        ], "characters": "N/A",
+        "tags": ["American"]
+    },
+    "Over-Soul": {
+        "author": "Ralph Waldo Emerson",
+        "clues": [
+            "Paramatmam - soul is immortal, vast, beautiful; conscious ego tiny, mistaken for it; all souls connected vaguely; soul God-made or God in man"
+        ], "characters": "N/A",
+        "tags": ["American"]
+    },
+    "Representative Men": {
+        "author": "Ralph Waldo Emerson",
+        "clues": [
+            "The [T] Men: Plato phil, Swedenborg myst, de Montaigne skeptic, Shakespeare poet, Napoleon world-man, Goethe writer"
+        ], "characters": "N/A",
+        "tags": ["American"]
+    },
+    "title": {
+        "author": "",
+        "clues": [
+            ""
+        ], "protagonist": "", 
+        "tags": []
+    }
+}

@@ -1,6 +1,6 @@
-Stendhal
-Francois Rabelais
-Ralph Waldo Emerson
+.Stendhal
+.Francois Rabelais
+.Ralph Waldo Emerson
 Walt Whitman
 William Blake
 Jupiter Hammon
