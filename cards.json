@@ -11,7 +11,7 @@
             "[P]'s marriage to Mathilde is halted when a letter from Madame de Rênal decries him as a womanizer",
             "[P] shoots Madame de Rênal and goes into hiding, aided by her, Mathilda, and priests he met before",
             "After a visit from Madame de Rênal, who still loves him, [P] is guillotined, and Mathilde kisses his head"
-        ], "protagonist": "Julian Sorel",
+        ], "mcs": "Julian Sorel",
         "tags": ["European", "French", "novel"]
     },
     "La Chartreuse de Parma / The Charterhouse of Parma": {
@@ -26,7 +26,7 @@
             "Gina has Ferrante poison the Prince, rizzes up the new Prince, and has [P] return to be acquitted",
             "[P] becomes a Vicar General, has an affair with her, fakes the kid's illness for custody, but the kid and Clélia both die",
             "This novel ends with 'To the Happy Few' when [P] retires to the title Carthusian monastery and dies."
-        ], "characters": "Fabrice del Dongo",
+        ], "mcs": "Fabrice del Dongo",
         "tags": ["European", "French", "novel"]
     },
     "Gargantua and Pantagruel, or Cinq Livres / Five Book": {
@@ -36,62 +36,121 @@
             "[P]'s father is smart, so his impressed father Grandgousier has him tutored, making him a fool; he then fights a shepherd-baker war",
             "Panurge and [P] are attacked by Chitterlings on the way to the Divine Bottle, until ships salute and [P] soils himself",
             "Birds live in church hierarchy, furred Law-Cats imprison [P] and friends; Queen Quintessence, Lanternland, and 'trinc´ lead Panurge to marry"
-        ], "characters": "Pantagruel, Gargantua",
+        ], "mcs": "Pantagruel, Gargantua",
         "tags": ["European", "French", "novel", "series"]
     },
     "Nature": {
         "author": "Ralph Waldo Emerson",
         "clues": [
             "'if a man would be alone, let him look at the stars.' Society breaks wholeness with [T], which takes you away and helps you find the Universal Spirit"
-        ], "characters": "N/A",
-        "tags": ["American"]
+        ], "mcs": "N/A",
+        "tags": ["American", "essay"]
     },
     "Self-Reliance": {
         "author": "Ralph Waldo Emerson",
         "clues": [
             "'A foolish consistency is the hobgoblin of little minds', 'Whoso would be a man must be a nonconformist' and do what *he* thinks right"
-        ], "characters": "N/A",
-        "tags": ["American"]
+        ], "mcs": "N/A",
+        "tags": ["American", "essay"]
     },
     "The American Scholar": {
         "author": "Ralph Waldo Emerson",
         "clues": [
             "'We are all fragments', you are busy/divided or right, reject old thought, be Man Thinking, nature past and action - be the [T]"
-        ], "tags": ["American"]
+        ], "tags": ["American", "essay"]
     },
     "Divinity School Address": {
         "author": "Ralph Waldo Emerson",
         "clues": [
             "At [T] College: Acquaint Thyself First Hand with Deity"
-        ], "characters": "N/A",
-        "tags": ["American"]
+        ], "mcs": "N/A",
+        "tags": ["American", "essay"]
     },
     "Concord Hymn": {
         "author": "Ralph Waldo Emerson",
         "clues": [
             "'Shot heard round the world' in a hymn to [T] location"
-        ], "characters": "N/A",
-        "tags": ["American"]
+        ], "mcs": "N/A",
+        "tags": ["American", "essay"]
     },
     "Over-Soul": {
         "author": "Ralph Waldo Emerson",
         "clues": [
             "Paramatmam - soul is immortal, vast, beautiful; conscious ego tiny, mistaken for it; all souls connected vaguely; soul God-made or God in man"
-        ], "characters": "N/A",
-        "tags": ["American"]
+        ], "mcs": "N/A",
+        "tags": ["American", "essay"]
     },
     "Representative Men": {
         "author": "Ralph Waldo Emerson",
         "clues": [
             "The [T] Men: Plato phil, Swedenborg myst, de Montaigne skeptic, Shakespeare poet, Napoleon world-man, Goethe writer"
-        ], "characters": "N/A",
-        "tags": ["American"]
+        ], "mcs": "N/A",
+        "tags": ["American", "essay"]
     },
+    "O Captain! My Captain!": {
+        "author": "Walt Whitman",
+        "clues": [
+            "[N] calls [P] 'dear father', [T], for he has died, the bugle trills, the bell rings, the shores exalt and yet [P] is 'fallen cold and dead'",
+            "'The ship has weather’d every rack, the prize we sought is won'",
+            "'bleeding drops of red' from [P] whose 'lips are pale and still', 'It is some dream that' [P] has died"
+        ], "mcs": "Abraham Lincoln", 
+        "tags": ["American", "poem"]
+    },
+    "Song of Myself": {
+        "author": "Walt Whitman",
+        "clues": [
+            "soul is 'detached, in measureless oceans of space'"
+        ], "mcs": "N/A", 
+        "tags": ["American", "poem"]
+    },
+    "When Lilacs Last in the Dooryard Bloom'd": {
+        "author": "Walt Whitman",
+        "clues": [
+            ""
+        ], "mcs": "N/A", 
+        "tags": ["American", "poem"]
+    },
+    "Crossing Brooklyn Ferry": {
+        "author": "Walt Whitman",
+        "clues": [
+            ""
+        ], "mcs": "N/A", 
+        "tags": ["American", "poem"]
+    },
+    "I Sing the Body Electric": {
+        "author": "Walt Whitman",
+        "clues": [
+            ""
+        ], "mcs": "N/A", 
+        "tags": ["American", "poem"]
+    },
+    "Out of the Cradle Endlessly Rocking": {
+        "author": "Walt Whitman",
+        "clues": [
+            ""
+        ], "mcs": "N/A", 
+        "tags": ["American", "poem"]
+    },
+    "When I Heard the Learn'd Astronomer": {
+        "author": "Walt Whitman",
+        "clues": [
+            ""
+        ], "mcs": "N/A", 
+        "tags": ["American", "poem"]
+    },
+    "Hush'd Be the Camps Today": {
+        "author": "Walt Whitman",
+        "clues": [
+            ""
+        ], "mcs": "N/A", 
+        "tags": ["American", "poem"]
+    },
+    
     "title": {
         "author": "",
         "clues": [
             ""
-        ], "protagonist": "", 
+        ], "mcs": "", 
         "tags": []
     }
 }
