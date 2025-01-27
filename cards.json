@@ -132,6 +132,36 @@
         ], "mcs": "N/A", 
         "tags": ["American", "poem"]
     },
+    "Songs of Innocence": {
+        "William Blake": "",
+        "clues": [
+            "Dost [T] know who has made thee? By the stream, gave clothing so bright, such a tender voice; creator is a lamb, [N] is a child, they are called by his name",
+            "Chimney Sweeper Part I: [N]'s mother died, father sold him; Tom Dacre gets head shaved, [N] comforts; Tom dreams of liberating Angel, God replaces hope for father",
+            "Little Boy Lost, Little Boy Found, Little Girl Lost, Little Girl Found;; Night: Angels bring heaven to earth, lions cry gold, united with lamb",
+            "Spring: Flute now mute, Birds rejoice, Nightingale, Little Boy, Little Girl, Cock crows, Lamb licks neck and [N] kisses its face"
+        ], "mcs": "", 
+        "tags": ["English", "poem"]
+    },
+    "Songs of Experience": {
+        "William Blake": "",
+        "clues": [
+            "Animal burning bright, esp. eyes in distant or deep skies; shoulder/art twist sinews of heart; when stars threw spears, did Lord who made Lamb smile?",
+            "Soft clod of clay states that love seeks to please others, makes heaven of hell; pebble of the brook states vice-versa, binds another to its delight",
+            "Chimney Sweeper Part II: Little black thing cries for parents 'gone up to church'; [N] happy, clothed in death, sings woe, parents think since seems fine, no harm",
+            "Told friend anger and it gone, did not tell foe -> wrath grew -> [T] object made -> bore apple -> foe stole apple for hate -> [N] glad to see foe dead"
+        ], "mcs": "", 
+        "tags": ["English", "poem"]
+    },
+    "Milton, Jerusalem, Vala": {
+        "author": "William Blake",
+        "clues": [
+            "And did those feet in ancient times; build Jerusalem in England; [T] with [N] a la Virgil; Bard's Prophetic Song; Reprobate > Elect; Ololon descends",
+            "Los Enters the Doors of Death; To the Public; To the Jews; To the Deists; To the Christians",
+            "[T]: Urthonah (Los), Urizen, Luvah, Thamas; Orc and the Eternal Man discuss their selves as divided"
+            ""
+        ], "mcs": "", 
+        "tags": []
+    }
     "title": {
         "author": "",
         "clues": [
