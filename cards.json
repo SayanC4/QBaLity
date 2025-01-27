@@ -99,53 +99,39 @@
     "Song of Myself": {
         "author": "Walt Whitman",
         "clues": [
-            "soul is 'detached, in measureless oceans of space'"
+            "soul is 'detached, in measureless oceans of space'; grass is 'uncut hair of graves'; spotted hawk complaings but [N] sounds barbaric yawp anyway",
+            "Unscrew the locks from the doors! Unscrew the doors from their jambs!; I am afoot with my vision. By the- Where the- Over the-; [N] is all nature",
+            "[N] will not tell of the fall of Alamo but of the skipper, the sea-fight, the stallion; many long dumb voices for [N] is a kosmos" 
         ], "mcs": "N/A", 
         "tags": ["American", "poem"]
     },
     "When Lilacs Last in the Dooryard Bloom'd": {
         "author": "Walt Whitman",
         "clues": [
-            ""
-        ], "mcs": "N/A", 
+            "Come lovely and soothing death; Prais'd be the fathomless universe; Approach strong deliveress; Over the tree-tops I float thee a song (poem in poem)",
+            "[N] laments a powerful western fallen star and a [T] bush whos sprig he breaks, a thrush; Night and day journeys a coffin; [N] deposits the sprig",
+            "O western orb sailing heaven; the thrush yet sings, warbles for the one [N] loved; this land, My own Manhattan; There in the fragrant pines and cedar dusks and dim."
+        ], "mcs": "Abraham Lincoln", 
         "tags": ["American", "poem"]
     },
     "Crossing Brooklyn Ferry": {
         "author": "Walt Whitman",
         "clues": [
-            ""
+            "Flood-tide; Crowds of Men and Women; current ties [N] with the lives of all others; Others will see the islands large and small; distance avails not",
+            "Twelfth-month sea-gulls oscillating their bodies; (The time will come, though I stop here to-day and to-night.); The dark threw its patches down upon me also",
+            "[N] mingled with all sinners and disgraceful and loved them all the same while [T]; what gods can exceed them?; [N] is closer and exhorts 'Flow on'"
         ], "mcs": "N/A", 
         "tags": ["American", "poem"]
     },
     "I Sing the Body Electric": {
         "author": "Walt Whitman",
         "clues": [
-            ""
+            "The armies of those I love engirth me; apprentice wrestlers, firefighters, swimmers, farmers; among all races runs the same red blood",
+            "A divine nimbus exhales the female form from head to foot; all is consued within it; they are the gates of body and soul",
+            "If any thing is sacred the human body is sacred; I say these are not the parts and poems of the body only, but of the soul"
         ], "mcs": "N/A", 
         "tags": ["American", "poem"]
     },
-    "Out of the Cradle Endlessly Rocking": {
-        "author": "Walt Whitman",
-        "clues": [
-            ""
-        ], "mcs": "N/A", 
-        "tags": ["American", "poem"]
-    },
-    "When I Heard the Learn'd Astronomer": {
-        "author": "Walt Whitman",
-        "clues": [
-            ""
-        ], "mcs": "N/A", 
-        "tags": ["American", "poem"]
-    },
-    "Hush'd Be the Camps Today": {
-        "author": "Walt Whitman",
-        "clues": [
-            ""
-        ], "mcs": "N/A", 
-        "tags": ["American", "poem"]
-    },
-    
     "title": {
         "author": "",
         "clues": [
