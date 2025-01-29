@@ -1,53 +1,91 @@
 .Stendhal
 .Francois Rabelais
 .Ralph Waldo Emerson
-Walt Whitman
-William Blake
-Jupiter Hammon
+.Walt Whitman
+.William Blake
+.Jupiter Hammon
 Stephen Crane
-Ann Radcliffe
-Lope de Vega
-Dylan Thomas
-Bram Stoker
-Selma Lagerlof
-Joyce Carol Oates
-John Dos Passos
-Marquis de Sade
-William Carlos Williams
-Sei Shonagon
-William Faulkner
-Luigi Pirandello
-Emile Zola
-Edna St. Vincent Millay
+Kenzaburo Oe
+Jean-Paul Sartre
+Jaroslav Hašek
+Milan Kundera
+Sophocles
+Karel Čapek
+Christopher Marlowe
 Elizabeth Browning
 Giovanni Boccaccio
-Sean O'Casey
+Robert Frost
+Marjane Satrapi
+Thomas Stearns Eliot
+William Carlos Williams
+William Wordsworth
+Sylvia Plath
+Eugene Ionesco
+Shakespeare [just Othello]
+Salman Rushdie
+Sandra Cisneros
+John Keats
+Nathaniel Hawthorne
+Li Po
+Edgar Allen Poe
+Samuel Beckett
+Tom Stoppard
+Naguib Mahfouz
+Euripides
+Athol Fugard
+Virginia Woolfe
+Ben Jonson
+William Faulkner
+Umberto Eco
+Azar Nafisi
+Joseph Conrad
+Miguel de Cervantes Saavedra
+Gabriela Mistral
+Margaret Atwood
+Ranier Maria Rilke
+Orhan Pamuk
+James Thurber
+Arthur Miller
+Richard Brinsley Sheridan
+Haruki Murakami
+Dylan Thomas
+Bram Stoker
+Joyce Carol Oates
+Aeschylus
+John Dos Passos
+Marquis de Sade
+Ann Radcliffe
+Lope de Vega
+Selma Lagerlof
+Sei Shonagon
 Thomas Gray
 Oliver Goldsmith
 Hesiod
-Miguel de Cervantes Saavedra
-Gabriela Mistral
-Norman Mailer
+Menander
+Catullus
 Alice Walker
 Ezra Pound
 Willa Cather
-Bernard Malamud
 Ovid
 Aleksandr Pushkin
 Emily Dickinson
 DH Lawrence
 William Makepeace Thackeray
 Boris Pasternak
-Menander
-Catullus
 Theodore Dreiser
-Sherwood Anderson
-Ernest Hemingway
-Jaroslav Hasek
-Zora Neale Hurston
-John Bunyan
 Henry James
 Jose Saramago
+Ernest Hemingway
+Zora Neale Hurston
+John Bunyan
+
+Luigi Pirandello
+Emile Zola
+Edna St. Vincent Millay
+Sean O'Casey
+Norman Mailer
+Bernard Malamud
+Sherwood Anderson
 Laura Esquivel
 Aeschylus
 Beatrix Potter
