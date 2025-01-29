@@ -2,8 +2,7 @@
     "Le Rouge et le Noir / The Red and the Black": {
         "author": "Stendhal",
         "clues": [
-            "[P] grows up bullied by brothers, faithlessly memorizes Latin verses",
-            "While he tutors Monsieur de Rênal's children, the maid Elisa exposes [P]'s affair with his wife",
+            "While [P] tutors Monsieur de Rênal's children, the maid Elisa exposes his affair with the M.'s wife",
             "[P] flees after his affair is exposed to an abbey and befriends the Jansenist Abbé Pirard",
             "While working under Marquis de la Mole, [P] delivers the message of a monarchist plot to the duc d'Angoulême",
             "The Russian Prince Korasoff shows [P] how to properly woo Mathilda de la Mole",
@@ -17,7 +16,7 @@
     "La Chartreuse de Parma / The Charterhouse of Parma": {
         "author": "Stendhal",
         "clues": [
-            "In Lombadry, [P]'s dad thinks himself an Austrian spy, and [P] may have been secretly fathered by a French soldier",
+            "In Lombardy, [P]'s dad thinks himself an Austrian spy, and [P] may have been secretly fathered by a French soldier",
             "At 17, [P] tries to join Napoleon's campaign, stealing a French hussar uniform and wandering onto Waterloo",
             "Fabrice joins Marshal Ney, meets his possible father (who steals his horse), and is wounded by a retreating ally",
             "[P]'s aunt Gina is lovers with Count Mosca, who sends [P] to theology school in Naples, where he has affairs",
@@ -162,13 +161,56 @@
         ], "mcs": "", 
         "tags": ["English", "novel"]
     },
-    "JM Poems": {
+    "JH Poems": {
         "author": "Jupiter Hammond",
         "clues": [
             "An Evening Thought: Salvation by Christ, with Penitential Cries; An Address to Miss Phillis Wheatley"
         ], "mcs": "", 
+        "tags": ["American", "poem"]
+    },
+    "The Bride Comes to Yellow Sky": {
+        "author": "Stephen Crane",
+        "clues": [
+            "[P] travels from San Antoiono to [T location] with [T character], though the townspeople don't know yet",
+            "Salesman in the Weary Gentleman Saloon questions hiding, but then the drunk Scratchy Wilson strikes",
+            "Scratchy Wilson shoots at [P]'s house; [P] arrives, introduces him to [T], talks him down"
+        ], "mcs": "Jack Potter, The Bride", 
+        "tags": ["American", "short story"]
+    },
+    "The Open Boat": {
+        "author": "Stephen Crane",
+        "clues": [
+            "Correspondent and Billie the oiler take turns rowing amid white-topped waves, blocked from sight of distant lighthouse",
+            "MCs see land and house near but remark 'it's strange they don't see us' and curse Fate for allowing them to see sand and trees",
+            "People accumulate on shore and waves white coats/flags on sticks, trying to turn the MCs north; Correespondent thinks Nature uninterested",
+            "[T] object overturns, four passengers swim to shore, oiler fastest; correspondent caught in current, but gets free; oiler washes up dead"
+        ], "mcs": "correspondent, Billie the oiler, captain, cook",
+        "tags": ["American", "short story"]
+    },
+    "The Blue Hotel": {
+        "author": "",
+        "clues": [
+            "",
+            "",
+            ""
+        ], "mcs": "", 
+        "tags": ["American", "short story"]
+    },
+    "title": {
+        "author": "",
+        "clues": [
+            ""
+        ], "mcs": "", 
         "tags": []
     },
+    "title": {
+        "author": "",
+        "clues": [
+            ""
+        ], "mcs": "", 
+        "tags": []
+    },
+
     
     "title": {
         "author": "",
