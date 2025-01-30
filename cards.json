@@ -188,22 +188,22 @@
         "tags": ["American", "short story"]
     },
     "The Blue Hotel": {
-        "author": "",
+        "author": "Stephen Crane",
         "clues": [
-            "",
-            "",
-            ""
-        ], "mcs": "", 
+            "The Swede, the Easterner, and the cowboy from Dakota show up at Arthur Scully's [T] at Romper, Nebraska",
+            "The Swede proclaims he'll die today and fights Johnnie Scully when he cheats, beating him badly, and goes to a bar",
+            "The Swede is stabbed by a gambler; the Easterner calls his sentence the end of a human movement and says all characters were complicit"
+        ], "mcs": "Swede, Easterner, cowboy, Arthur Scully, Johnnie Scully",
         "tags": ["American", "short story"]
     },
-    "title": {
+    "The Red Badge of Courage": {
         "author": "",
         "clues": [
             ""
         ], "mcs": "", 
         "tags": []
     },
-    "title": {
+    "Maggie: A Girl of the Streets": {
         "author": "",
         "clues": [
             ""
