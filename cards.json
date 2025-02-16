@@ -210,7 +210,17 @@
         ], "mcs": "", 
         "tags": []
     },
-
+    "Billy Budd": {
+        "author": "Herman Melville",
+        "clues": [
+            "[P] is an abandoned child from Bristol with an extreme, agitable stutter; serves on the merchant ship Rights of Man but is impressed onto the HMS Bellipotent",
+            "Master-at-arms John Claggart is envious of [P]'s good looks innocence, accuses him of mutiny; when Cpt. 'Starry' Vere calls him and [P] to testify, [P]'s stutter frustrates him to 1HKO Claggart",
+            "Vere proclaims 'Struck dead by an Angel of God! But the Angel must hang.', intervenes in a tribunal to get [P] guilty; [P]'s last words are 'God bless Captain Vere'",
+            "After [P] dies, Vere's last words against the ship Athéeare his name; an offical article lies that [P] conspired, stabbed, and was born foreign; a poem of '[P] in the Darbies' eulogizes him"
+        ], "mcs": "Billy Budd, Captain Vere",
+        "tags": ["American", "novel"],
+    },
+    
     
     "title": {
         "author": "",
