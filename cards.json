@@ -197,18 +197,32 @@
         "tags": ["American", "short story"]
     },
     "The Red Badge of Courage": {
-        "author": "",
+        "author": "Stephen Crane",
+        "clues": [
+            "Jim Conklin warns that the 304th regiment will march; they do, [P] fires mechanically, blue against gray; they win, and [P] naps",
+            "[P] wakens from a nap, finds the enemy is charging, flees; he convinces himself he was right, but soon learns the foe was routed",
+            "[P] meets a column of wounded men, including Jim Conklin, who runs into a bush and dies, and a tattered man shot twice; [P] leaves him to die",
+            "[P]'s friend Wilson tends to him, believing him shot after he was hit in the head in a retreat; the two hear an officer call their regiment mule drivers and mud diggers",
+            "[P] carries a flag after the standard-bearer falls, and continues this even after a failed charge; Wilson seizes an enemy flag, and [P] reflects on shame with pride"
+        ], "mcs": "Henry Fleming, WIlson, Jim Conklin, the tattered man", 
+        "tags": ["American", "novel"]
+    },
+    "Maggie: A Girl of the Streets": {
+        "author": "Stephen Crane",
         "clues": [
             ""
         ], "mcs": "", 
         "tags": []
     },
-    "Maggie: A Girl of the Streets": {
-        "author": "",
+    "Poems on Various Subjects, Religious and Moral": {
+        "author": "Phyllis Wheately",
         "clues": [
-            ""
+            "sun forsook eastern main, zephyr's wing, mingled music, beauteous dies, west glories in deepest red, sable curtains of the night, wake heavenly/refined, guarded from snares of sin, wait will Aurora - Hymn to the Evening",
+            "Ever-honored nine, bright Aurora demands song and hails, the thousand dies, gentle zephyr plays, feather'd race, Calliope awake the sacred lyre, illustrious king of day, too bright - abortive song ends - Hymn to the Morning",
+            "To Right Honorable Earl of Dartmouth | To His Execellency, General Washington | To the King's Most Excellent Majesty | To a Gentleman and a Lady on Avis | ",
+            "To S. M. A Young African Painter on Seeing His Works | On Being Brought from Africa to America | On Imagination | On Virtue"
         ], "mcs": "", 
-        "tags": []
+        "tags": ["American", "poem"]
     },
     "Billy Budd": {
         "author": "Herman Melville",
