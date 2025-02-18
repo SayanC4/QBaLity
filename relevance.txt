@@ -10,7 +10,7 @@ James Fenimore Cooper
 Henry Wadsworth Longfellow
 James Russell Lowell
 Oliver Wendell Holmes
-John Greenleaf Whittier
+John Whittier
 Frederick Douglass
 Ralph Waldo Emerson
 Henry David Thoreau
@@ -24,7 +24,7 @@ Sarah Orne Jewett
 Bret Harte
 Paul Laurence Dunbar
 Emily Dickinson
-Samuel Langhorne Clemens
+Mark Twain
 Louisa May Alcott
 William Dean Howells
 Stephen Crane
@@ -38,13 +38,13 @@ Willa Cather
 Sherwood Anderson
 Sinclair Lewis
 Ernest Hemingway
-F. Scott Fitzgerald
+F Scott Fitzgerald
 Stephen Vincent Benet
 John Steinbeck
 John Dos Passos
 William Faulkner
 The Hamlet
-E. E. Cummings
+E E Cummings
 Norman Mailer
 John Hersey
 JD Salinger
@@ -53,7 +53,7 @@ Kurt Vonnegut
 Robert Heinlein
 John Barth
 Robert Penn Warren
-O. Henry
+O Henry
 John Cheever
 John Updike
 Ezra Pound
@@ -61,13 +61,13 @@ Winston Churchill
 Edwin Arlington Robinson
 Robert Frost
 Edna St. Vincent Millay
-William Carlos Williams
+William C Williams
 Ray Bradbury
 Ayn Rand
 Lillian Hellman
 Saul Bellow
 Bernard Malamud
-Isaac Bashevis Singer
+Isaac B Singer
 Philip Roth
 Claude McKay
 Countee Cullen
@@ -96,7 +96,7 @@ Neil Simon
 Thornton Wilder
 Tennessee Williams
 Stephen King
-Edgar Rice Burroughs
+Edgar R Burroughs
 Shirley Jackson
 Vladimir Nabokov
 Alex Haley
@@ -158,8 +158,8 @@ William Wordsworth
 Sir Walter Scott
 Robert Southey
 Ann Radcliffe
-Percy Bysshe Shelley
-Mary Wollstonecraft Shelley
+Percy B Shelley
+Mary Shelley
 John Keats
 Robert Burns
 Robert Browning
@@ -168,7 +168,7 @@ Matthew Arnold
 Charles Swinburne
 Jane Austen
 Charles Dickens
-William Makepeace Thackeray
+William M Thackeray
 Anthony Trollope
 Anne Bronte
 Emily Bronte
@@ -186,7 +186,7 @@ Anna Sewell
 Bram Stoker
 Oscar Wilde
 Aldous Huxley
-Sir Arthur Conan Doyle
+Arthur Conan Doyle
 George Orwell
 John Millington Synge
 James Joyce
@@ -194,9 +194,9 @@ Virginia Woolf
 Kingsley Amis
 Dylan Thomas
 William Golding
-William Butler Yeats
+W B Yeats
 Winston Churchill
-J.R.R. Tolkien
+J Tolkien
 Arthur Koestler
 Doris Lessing
 Harold Pinter
@@ -233,7 +233,7 @@ Marcel Proust
 Jean
 Johann Wolfgang von Goethe
 Friedrich von Schiller
-Jacob and Wilhelm Grimm
+Grimm
 Rainer Maria Rilke
 Thomas Mann
 Bertolt Brecht
@@ -284,7 +284,7 @@ Boris Pasternak
 Aleksandr Solzhenitsyn
 Alan Paton
 Nadine Gordimer
-Miguel de Cervantes Saavedra
+Miguel de Cervantes
 Lope de Vega
 Pedro Calderon de la Barca
 Miguel de Unamuno
@@ -328,10 +328,10 @@ Petronius Arbiter
 Juvenal
 Martial
 Petronius Arbiter
-Kate O'Flaherty Chopin
+Kate Chopin
 Helen Hunt Jackson
-Ambrose Gwinett Bierce
-William S. Burroughs
+Ambrose Bierce
+William S Burroughs
 Arthur Ashur Miller
 L Frank Baum
 Joyce Carol Oates
@@ -339,29 +339,28 @@ Richard Sheridan
 George Gordon Lord Byron
 Alfred Lord Tennyson
 Dante Gabriel Rossetti and William Morris
-HG Wells
-AE Housman
+H Wells
+A Housman
 Dame Agatha Christie
-EM Forster
-DH Lawrence
-W Somerset Maugham
-Ford Maddox Ford
-TS Eliot
-WH Auden
-CS Lewis
-Hans Christian Anderson
-Alexandr Dumas, Pére
-Alexandr Dumas, Fils
-Halldor Kiljan Laxness
-Miguel Angel Asturias
+E Forster
+D Lawrence
+W Maugham
+F Ford
+T Eliot
+W Auden
+C Lewis
+Hans Anderson
+Alexandr Dumas
+Halldor Laxness
+Miguel Asturias
 Aleksandr Pushkin
 Nikolay Gogol
-Count Leo Tolstoy
+Leo Tolstoy
 Maksim Gorki
 Mikhail Sholokhov
-AA Milne
-Theodore Seuss Geisel
+A Milne
+Theodore Seuss
 Frances Hodgson Burnett
-Sappho of Lesvos
+Sappho
 Herodotus
 Xenophon
