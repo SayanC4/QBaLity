@@ -1,0 +1,348 @@
+Virginia Woolf                  :122
+Jorge Luis Borges               :97
+Pablo Neruda                    :91
+W B Yeats                       :88
+Thomas Hardy                    :87
+Franz Kafka                     :80
+Sylvia Plath                    :79
+Emily Dickinson                 :77
+Ernest Hemingway                :74
+O Henry                         :74
+Anton Chekhov                   :73
+Robert Frost                    :69
+Flannery O'Connor               :68
+John Keats                      :68
+Gabriel Garcia Marquez          :68
+Nikolai Gogol                   :68
+Leo Tolstoy                     :68
+Samuel Beckett                  :67
+Rabindranath Tagore             :66
+John Donne                      :65
+Salman Rushdie                  :65
+William Blake                   :64
+Guy Maupassant                  :64
+Wole Soyinka                    :64
+Henrik Ibsen                    :64
+Nathaniel Hawthorne             :63
+Oscar Wilde                     :63
+James Joyce                     :63
+Langston Hughes                 :62
+Johann Wolfgang von Goethe      :62
+Thomas Mann                     :62
+Octavio Paz                     :62
+Aristophanes                    :62
+Harold Pinter                   :61
+Petrarch                        :61
+Omar Khayyam                    :61
+Bertolt Brecht                  :60
+Ale Pushkin                     :60
+Walt Whitman                    :59
+T Eliot                         :59
+Eugene O'Neill                  :58
+George Bernard Shaw             :58
+Moliere                         :58
+Nadine Gordimer                 :58
+Hermann Hesse                   :58
+D Lawrence                      :58
+W Auden                         :58
+Margaret Atwood                 :57
+Rainer Maria Rilke              :57
+George Eliot                    :56
+Gustave Flaubert                :56
+Ezra Pound                      :55
+Rudyard Kipling                 :55
+Joseph Conrad                   :55
+Eugene Ionesco                  :55
+Edgar Allan Poe                 :54
+Vladimir Nabokov                :54
+Toni Morrison                   :53
+Naguib Mahfouz                  :53
+Carlos Fuentes                  :53
+Alfred Lord Tennyson            :53
+Henry Wadsworth Longfellow      :52
+J Salinger                      :52
+William C Williams              :52
+Wallace Stevens                 :52
+E Forster                       :52
+Stephen Crane                   :51
+Henry James                     :51
+E E Cummings                    :51
+Thornton Wilder                 :51
+George Orwell                   :51
+Albert Camus                    :51
+Kurt Vonnegut                   :50
+John Milton                     :50
+Edith Wharton                   :49
+William Shakespeare             :49
+Ben Jonson                      :49
+Jose Saramago                   :49
+Willa Cather                    :48
+Allen Ginsberg                  :48
+Edward Albee                    :48
+Christopher Marlowe             :48
+Herman Melville                 :47
+Thomas Pynchon                  :47
+Jane Austen                     :47
+Gunter Grass                    :47
+Kate Chopin                     :47
+Jean Sartre                     :46
+F Scott Fitzgerald              :45
+James Baldwin                   :45
+William Wordsworth              :45
+John Steinbeck                  :44
+William Faulkner                :44
+Tennessee Williams              :44
+Samuel Taylor Coleridge         :44
+Graham Greene                   :44
+Victor Hugo                     :44
+Arthur Miller                   :44
+Anne Bradstreet                 :43
+Ray Bradbury                    :43
+Jonathan Swift                  :43
+Robert Browning                 :43
+Honore Balzac                   :43
+Matsuo Basho                    :43
+Maya Angelou                    :42
+Dylan Thomas                    :42
+Horace                          :42
+Geoffrey Chaucer                :41
+Walter Scott                    :41
+Catullus                        :41
+Ambrose Bierce                  :41
+Sinclair Lewis                  :40
+Philip Roth                     :40
+Luigi Pirandello                :40
+Charles Dickens                 :39
+Ivan Turgenev                   :39
+Washington Irving               :38
+Jack London                     :38
+Agatha Christie                 :38
+Sappho                          :38
+H Wells                         :37
+A Housman                       :37
+William Cullen Bryant           :36
+Aldous Huxley                   :36
+Mark Twain                      :35
+Elizabeth Browning              :35
+Matthew Arnold                  :35
+Marcel Proust                   :35
+Miguel de Cervantes             :35
+Stendhal                        :34
+Alan Paton                      :34
+Abraham Lincoln                 :33
+John Dryden                     :33
+Robert Louis Stevenson          :32
+Derek Walcott                   :32
+Fyodor Dostoyevsky              :32
+Percy B Shelley                 :31
+Emile Zola                      :31
+Dante Alighieri                 :31
+Richard Wright                  :30
+Truman Capote                   :30
+Jules Verne                     :30
+Alexandr Dumas                  :30
+Alexander Pope                  :29
+Henry Fielding                  :29
+Seamus Heaney                   :29
+Giovanni Boccaccio              :29
+Aleksandr Solzhenitsyn          :28
+Zora Neale Hurston              :27
+Edmund Spenser                  :27
+Homer                           :27
+Theodore Dreiser                :26
+John Updike                     :26
+William Golding                 :26
+Katherine Mansfield             :26
+Saul Bellow                     :25
+Daniel Defoe                    :25
+Lewis Carroll                   :25
+Karel Capek                     :25
+Boris Pasternak                 :25
+Vergil                          :25
+James Fenimore Cooper           :24
+Bret Harte                      :24
+Carl Sandburg                   :24
+Robert Burns                    :24
+Aeschylus                       :24
+Sophocles                       :24
+Ralph Waldo Emerson             :23
+J Tolkien                       :23
+Ovid                            :23
+Oliver Goldsmith                :22
+Francois Rabelais               :22
+Charlotte Bronte                :21
+Voltaire                        :21
+Friedrich von Schiller          :21
+Heinrich Boll                   :21
+Gabriela Mistral                :21
+Alice Walker                    :20
+Jack Kerouac                    :20
+Robert Lowell                   :20
+Mary Shelley                    :20
+Terence                         :20
+Phillis Wheatley                :19
+Thomas Gray                     :19
+Jose Marti                      :19
+C Lewis                         :19
+Maxim Gorky                     :19
+John Whittier                   :18
+Edna Millay                     :18
+Lillian Hellman                 :18
+Emily Bronte                    :18
+Gerard Manley Hopkins           :18
+Samuel Johnson                  :17
+Arthur Conan Doyle              :17
+Patrick White                   :17
+Grimm                           :17
+Erich Maria Remarque            :17
+Aesop                           :17
+Euripides                       :17
+Robert Penn Warren              :16
+Ralph Ellison                   :16
+Eudora Welty                    :16
+Anne Bronte                     :16
+Lady Murasaki                   :16
+Lope de Vega                    :16
+Edwin Arlington Robinson        :15
+Shirley Jackson                 :15
+Ken Kesey                       :15
+William M Thackeray             :15
+Ngugi Wa Thiong'o               :15
+Manuel Puig                     :15
+W Maugham                       :15
+Oliver Wendell Holmes           :14
+Ayn Rand                        :14
+Pearl Buck                      :14
+Amy Tan                         :14
+Gertrude Stein                  :14
+Andre Gide                      :14
+Plautus                         :14
+Harper Lee                      :13
+John Millington Synge           :13
+Pedro Calderon Barca            :13
+Henry David Thoreau             :12
+Norman Mailer                   :12
+Tom Wolfe                       :12
+Philip Sidney                   :12
+Chikamatsu Monzaemon            :12
+Pindar                          :12
+Richard Sheridan                :12
+George Gordon Lord Byron        :12
+Paul Laurence Dunbar            :11
+Frank Norris                    :11
+Robert Herrick                  :11
+Sean O'Casey                    :11
+Kawabata Yasunari               :11
+F Ford                          :11
+Benjamin Franklin               :10
+Frederick Douglass              :10
+Harriet Beecher Stowe           :10
+Sherwood Anderson               :10
+John Dos Passos                 :10
+Bernard Malamud                 :10
+Carson McCullers                :10
+Anthony Trollope                :10
+Oe Kenzaburo                    :10
+Philip Freneau                  :9
+Louisa May Alcott               :9
+William Dean Howells            :9
+Upton Sinclair                  :9
+Isaac B Singer                  :9
+Vachel Lindsay                  :9
+Hesiod                          :9
+Jaroslav Hasek                  :8
+Sarah Orne Jewett               :8
+Claude McKay                    :8
+Dashiell Hammett                :8
+Thomas More                     :8
+Richard Lovelace                :8
+John Bunyan                     :8
+James Boswell                   :8
+Arthur Koestler                 :8
+Doris Lessing                   :8
+Vaclav Havel                    :8
+William S Burroughs             :8
+James Russell Lowell            :7
+Stephen Vincent Benet           :7
+Joseph Heller                   :7
+Edgar Lee Masters               :7
+Raymond Chandler                :7
+Ann Radcliffe                   :7
+Samuel Butler                   :7
+Bram Stoker                     :7
+Gao Xingjian                    :7
+Pierre Corneille                :7
+Ruben Dario                     :7
+Juvenal                         :7
+Tony Kushner                    :6
+Stephen King                    :6
+John Kennedy Toole              :6
+Bede                            :6
+Samuel Richardson               :6
+Anatole France                  :6
+Juana Ines de la Cruz           :6
+Miguel de Unamuno               :6
+Petronius Arbiter               :6
+Joyce Carol Oates               :6
+John Barth                      :5
+Neil Simon                      :5
+Katherine Anne Porter           :5
+Amy Lowell                      :5
+Anne Sexton                     :5
+Tobias Smollett                 :5
+Laurence Sterne                 :5
+Charles Swinburne               :5
+Kingsley Amis                   :5
+Simone Beauvoir                 :5
+Menander                        :5
+Sextus Propertius               :5
+A Milne                         :5
+Dr Seuss                        :5
+Robert Heinlein                 :4
+John Cheever                    :4
+Winston Churchill               :4
+William Saroyan                 :4
+Edna Ferber                     :4
+George Herbert                  :4
+Horace Walpole                  :4
+Maurice Maeterlinck             :4
+Dario Fo                        :4
+Sei Shonagon                    :4
+Knut Hamsun                     :4
+Czeslaw Milosz                  :4
+Ivo Andric                      :4
+Socrates                        :4
+Aristotle                       :4
+Seneca                          :4
+Martial                         :4
+Dante Gabriel Rossetti          :4
+Olaudah Equiano                 :3
+Alex Haley                      :3
+Samuel Pepys                    :3
+Beatrix Potter                  :3
+Miguel Asturias                 :3
+John Hersey                     :2
+Countee Cullen                  :2
+Edgar R Burroughs               :2
+Margaret Mitchell               :2
+Pearl Poet                      :2
+Thomas Kyd                      :2
+Robert Southey                  :2
+Laura Esquivel                  :2
+Selma Lagerlof                  :2
+Par Lagerkvist                  :2
+Madeleine L'Engle               :2
+Theocritus                      :2
+Lucian                          :2
+Cicero                          :2
+Lucan                           :2
+Jupiter Hammon                  :1
+Caedmon                         :1
+Thomas Malory                   :1
+Marquis Sade                    :1
+Wislawa Szymborska              :1
+Laura Ingalls Wilder            :1
+Beverly Cleary                  :1
+Halldor Laxness                 :1
+Mikhail Sholokhov               :1
+Xenophon                        :1

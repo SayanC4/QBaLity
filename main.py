@@ -1,8 +1,9 @@
 import asyncio as asy
 from qbreader import Async
 
-with open("./Those who Grow.txt") as lit:
-    ls = lit.readlines()
+with open("./relevance.txt") as auths:
+    fauths = auths.readlines()
+    """
     filt = [l.strip() for l in ls if " -" in l]
     fauths = ["Saint-John Perse"]
     for f in filt:
@@ -19,24 +20,32 @@ with open("./Those who Grow.txt") as lit:
             if "Dynasty" not in auth and "BC" not in auth:
                 fauths.append(auth.strip())
     #print(fauths)
+    """
 
 # relevs = []
-async def verify(author, client):
+async def acount(author, client):
     await asy.sleep(0.001)
+    qstr = ".*".join([f"\\b{w}\\w*\\b" for w in author.split()])
+    # e.g. \bT\w*\b.*\bEliot\w*\b
     resp = await client.query(
-        queryString=author,
-        difficulties=[0, 1, 2, 3, 4, 5],
+        queryString=qstr,
+        searchType="answer",
+        regex=True,
+        difficulties=[3, 4, 5],
         categories="Literature")
-    return resp.tossups_found > 4 or resp.bonuses_found > 4
+    return resp.tossups_found + resp.bonuses_found
 
 async def main():
     client = await Async.create()
-    relevs = open("./relevance.txt", 'w')
-    irrelevs = open("./irrelevance.txt", 'w')
+    asorted = open("./authsorted.txt", 'w')
+    #irrelevs = open("./irrelevance.txt", 'w')
+    adict = dict()
     for author in fauths:
-        relevance = await verify(author, client)
-        print(f"{author}: {relevance}")
-        relevs.write(f"{author}\n") if relevance else irrelevs.write(f"{author}\n")
+        count = await acount(author, client)
+        #print(f"{author}: {relevance}")
+        #relevs.write(f"{author}\n") if relevance else irrelevs.write(f"{author}\n")
+        adict[author.strip()] = count
+        print(f"{author.strip()}:\t{count}")
     """
     tasks = [verify(author, client) for author in fauths]
     results = await asy.gather(*tasks)
@@ -45,7 +54,9 @@ async def main():
             relevs.append(author)
     """
     await client.close()
-    relevs.close()
-    irrelevs.close()
-   
+    lsort = sorted(adict.items(), key=lambda i: i[1], reverse=True)
+    for a in lsort:
+        asorted.write(f"{a[0]:<32}{a[1]}\n")
+    #relevs.close()
+    asorted.close()
 asy.run(main())

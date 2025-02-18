@@ -43,11 +43,10 @@ Stephen Vincent Benet
 John Steinbeck
 John Dos Passos
 William Faulkner
-The Hamlet
 E E Cummings
 Norman Mailer
 John Hersey
-JD Salinger
+J Salinger
 Joseph Heller
 Kurt Vonnegut
 Robert Heinlein
@@ -60,7 +59,7 @@ Ezra Pound
 Winston Churchill
 Edwin Arlington Robinson
 Robert Frost
-Edna St. Vincent Millay
+Edna Millay
 William C Williams
 Ray Bradbury
 Ayn Rand
@@ -121,12 +120,11 @@ Thomas Pynchon
 Tom Wolfe
 Caedmon
 Bede
-Alfred
 Geoffrey Chaucer
 Thomas Malory
 Pearl Poet
-Sir Thomas More
-Sir Philip Sidney
+Thomas More
+Philip Sidney
 Edmund Spenser
 John Donne
 George Herbert
@@ -155,7 +153,7 @@ Laurence Sterne
 Horace Walpole
 Samuel Taylor Coleridge
 William Wordsworth
-Sir Walter Scott
+Walter Scott
 Robert Southey
 Ann Radcliffe
 Percy B Shelley
@@ -206,7 +204,6 @@ Samuel Beckett
 Patrick White
 Maurice Maeterlinck
 Margaret Atwood
-Ssu
 Gao Xingjian
 Franz Kafka
 Karel Capek
@@ -217,20 +214,20 @@ Francois Rabelais
 Pierre Corneille
 Moliere
 Voltaire
-Marquis de Sade
+Marquis Sade
 Victor Hugo
-Honore de Balzac
+Honore Balzac
 Gustave Flaubert
 Emile Zola
 Jules Verne
 Stendhal
-Guy de Maupassant
+Guy Maupassant
 Anatole France
 Albert Camus
-Simone de Beauvoir
+Simone Beauvoir
 Andre Gide
 Marcel Proust
-Jean
+Jean Sartre
 Johann Wolfgang von Goethe
 Friedrich von Schiller
 Grimm
@@ -286,7 +283,7 @@ Alan Paton
 Nadine Gordimer
 Miguel de Cervantes
 Lope de Vega
-Pedro Calderon de la Barca
+Pedro Calderon Barca
 Miguel de Unamuno
 Selma Lagerlof
 Par Lagerkvist
@@ -329,19 +326,19 @@ Juvenal
 Martial
 Petronius Arbiter
 Kate Chopin
-Helen Hunt Jackson
 Ambrose Bierce
 William S Burroughs
-Arthur Ashur Miller
+Arthur Miller
 L Frank Baum
 Joyce Carol Oates
 Richard Sheridan
 George Gordon Lord Byron
 Alfred Lord Tennyson
-Dante Gabriel Rossetti and William Morris
+Dante Gabriel Rossetti
+William Morris
 H Wells
 A Housman
-Dame Agatha Christie
+Agatha Christie
 E Forster
 D Lawrence
 W Maugham
@@ -349,17 +346,17 @@ F Ford
 T Eliot
 W Auden
 C Lewis
-Hans Anderson
+Hans Andersen
 Alexandr Dumas
 Halldor Laxness
 Miguel Asturias
-Aleksandr Pushkin
-Nikolay Gogol
+Ale Pushkin
+Nikolai Gogol
 Leo Tolstoy
-Maksim Gorki
+Maxim Gorky
 Mikhail Sholokhov
 A Milne
-Theodore Seuss
+Dr Seuss
 Frances Hodgson Burnett
 Sappho
 Herodotus
