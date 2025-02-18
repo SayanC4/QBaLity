@@ -114,6 +114,7 @@ Philip Roth                     40
 Luigi Pirandello                40
 Charles Dickens                 39
 Ivan Turgenev                   39
+Ryunosuke Akutagawa             39
 Washington Irving               38
 Jack London                     38
 Agatha Christie                 38
@@ -197,6 +198,7 @@ Grimm                           17
 Erich Maria Remarque            17
 Aesop                           17
 Euripides                       17
+Zadie Smith                     16
 Robert Penn Warren              16
 Ralph Ellison                   16
 Eudora Welty                    16
@@ -220,6 +222,8 @@ Plautus                         14
 Harper Lee                      13
 John Millington Synge           13
 Pedro Calderon Barca            13
+Hart Crane                      13
+Don DeLillo                     13
 Henry David Thoreau             12
 Norman Mailer                   12
 Tom Wolfe                       12
@@ -250,6 +254,7 @@ Upton Sinclair                  9
 Isaac B Singer                  9
 Vachel Lindsay                  9
 Hesiod                          9
+William Congreve                9
 Jaroslav Hasek                  8
 Sarah Orne Jewett               8
 Claude McKay                    8
@@ -284,6 +289,7 @@ Juana Ines de la Cruz           6
 Miguel de Unamuno               6
 Petronius Arbiter               6
 Joyce Carol Oates               6
+Chaim Potok                     6
 John Barth                      5
 Neil Simon                      5
 Katherine Anne Porter           5
@@ -316,6 +322,7 @@ Aristotle                       4
 Seneca                          4
 Martial                         4
 Dante Gabriel Rossetti          4
+Michael Chabon                  4
 Olaudah Equiano                 3
 Alex Haley                      3
 Samuel Pepys                    3
@@ -336,6 +343,7 @@ Theocritus                      2
 Lucian                          2
 Cicero                          2
 Lucan                           2
+Endo Shusaku                    2
 Jupiter Hammon                  1
 Caedmon                         1
 Thomas Malory                   1
