@@ -112,7 +112,9 @@ Author (* = NAQT YGTN list)      Count
 *Endo Shusaku                    2
 *Douglas Adams                   2
 *Zeami Motokiyo                  1
+
 Thomas Hardy                    87
+Federico Garcia Lorca           85
 Franz Kafka                     80
 Sylvia Plath                    79
 Emily Dickinson                 77
@@ -148,6 +150,7 @@ E Forster                       52
 Stephen Crane                   51
 Henry James                     51
 Albert Camus                    51
+V. S. Naipaul                   50
 John Milton                     50
 Edith Wharton                   49
 Jose Saramago                   49
@@ -190,6 +193,7 @@ Miguel de Cervantes             35
 Stendhal                        34
 Alan Paton                      34
 Abraham Lincoln                 33
+Arthur Evelyn St. John Waugh    32
 Robert Louis Stevenson          32
 Derek Walcott                   32
 Percy B Shelley                 31
@@ -217,6 +221,7 @@ James Fenimore Cooper           24
 Bret Harte                      24
 Carl Sandburg                   24
 Robert Burns                    24
+David Mamet                     23
 Ralph Waldo Emerson             23
 J Tolkien                       23
 Ovid                            23
@@ -225,6 +230,7 @@ Charlotte Bronte                21
 Voltaire                        21
 Friedrich von Schiller          21
 Heinrich Boll                   21
+Elie Wiesel                     20
 Jack Kerouac                    20
 Robert Lowell                   20
 Terence                         20
@@ -301,6 +307,7 @@ Gao Xingjian                    7
 Pierre Corneille                7
 Ruben Dario                     7
 Juvenal                         7
+Primo Levi                      6
 Tony Kushner                    6
 Stephen King                    6
 John Kennedy Toole              6
