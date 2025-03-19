@@ -234,7 +234,33 @@
         ], "mcs": "Billy Budd, Captain Vere",
         "tags": ["American", "novel"],
     },
-    
+    "Romola": {
+        "author": "George Eliot",
+        "clues": [
+            "The shipwrecked Tito meets a Florentine trader and enters Florence, meeting Nello the barber, Tessa, who he mock-'marries', the blind scholar Bardo de' Bardi, and his daughter, [P], who he falls in love with",
+            "Tito learns from Fra Luca, [P]'s brother, that his adoptive father's been enslaved, but decides it'd be futile to try to rescue him; Fra Luca warns [P] of vision of a stranger marrying her and bringing pain",
+            ", but she goes through with a marriage on Easter; Tito welcomes French invaders but meets and feigns ignorance toward his escaped adopted father, Baldassare, who vows vengeance and escapes to the Duomo",
+            "Tito fears Baldassare and makes plan to leave Florence with money from selling Bardo's library; [P] learns this and almost leaves him, but Girolamo Savonarola guilt-trips her with filial duty to stay",
+            "By 1496, Tito has become a politician, escaped Baldassare's assassination attempts, and fathered 2 kids with Tessa; [P] follows Savonarola and meets Baldassare, who leads her to Tessa",
+            "Political turmoil; Tito sentences [P]'s godfather to death, and Savonarola doesn't intervene, so she leaves; Savonarola is arrested, and mobs attack Tito, who escapes via the Arno river; Baldassare kills him",
+            "[P] tries to emulate the Decameron and drift to sea in a boat to die, but ends up in a plague-ridden village, helps them, and returns to a post-Savonarola Florence, caring for Tessa and her children"
+        ], "mcs": "Romola de' Bardi, Tito Melema", 
+        "tags": ["English", "novel"]
+    },
+    "Daniel Deronda": {
+        "author": "George Eliot",
+        "clues": [
+            ""
+        ], "mcs": "", 
+        "tags": ["English", "novel"]
+    },
+    "The Mill on the Floss": {
+        "author": "George Eliot",
+        "clues": [
+            ""
+        ], "mcs": "", 
+        "tags": ["English", "novel"]
+    },
     
     "title": {
         "author": "",
